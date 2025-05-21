@@ -1,0 +1,58 @@
+Welcome to Markdown
+================
+Kate Lorenzen
+2023-02-27
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax
+for authoring HTML, PDF, and MS Word documents. For more details on
+using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that
+includes both content as well as the output of any embedded R code
+chunks within the document. You can embed an R code chunk like this:
+
+``` r
+x=3
+x<-x+7
+print("x=",x)
+```
+
+    ## [1] "x="
+
+What is the difference between that and this code chunks?
+
+    ## [1] "x="
+
+## Task 1
+
+Change the following list of words to have a visual representation of
+their meaning.
+
+- bold
+- italic
+- code
+- x+y=n (math)
+
+## Task 2
+
+Insert a table that has the days of the week and the number of classes
+you have that day.
+
+## Task 3
+
+Insert an image of a goofy animal with a caption about why it is goofy.
+
+## Task 4
+
+Take your r-script from Friday (or use Dr. L’s posted on blackboard) and
+put the pieces into multiple code chunks to build the final graphic. Not
+every thing from the script will make it into your code chunks, just the
+**interesting** parts!
+
+Use your words between the chunks to describe what is going on.
+
+## Task 5
+
+Knit your markdown and submit your HTML to blackboard.
